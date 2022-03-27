@@ -1,6 +1,5 @@
 <h1>Welcome to my GitHub!</h1>
 
-<p> Currently doing full-stack web applications for #100devs. </p>
 <p> My latest completed project can be viewed here: </p>
 <a href="https://tribalk-super-mario-powerup.glitch.me/">⭐ Super Mario Interactive Power-Up Selector 🍄 </a>
 
