@@ -7,7 +7,6 @@
 
 <h2> Portfolio Site: </h2>
 <h3><a href="https://tribalk-portfolio.netlify.app/">View my portfolio!</a></h3>
-
 <!--
 **TribalK/TribalK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
