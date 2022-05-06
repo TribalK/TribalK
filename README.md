@@ -1,7 +1,7 @@
 <h1>Welcome to my GitHub!</h1>
 
 <p> My latest completed projects can be viewed here: </p>
-<a href="https://tribalk-space-voyage.glitch.me/">🚀 Space Voyage - NASA 🌒 </a>
+<a href="https://tribalk-space-voyage.glitch.me/">🚀 Space Voyage - NASA 🌒 </a> 
 
 <a href="https://tribalk-super-mario-powerup.glitch.me/">⭐ Super Mario Interactive Power-Up Selector 🍄 </a>
 
